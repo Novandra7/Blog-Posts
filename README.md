@@ -1,17 +1,17 @@
-NIM : 2209116040
-NAMA : Awang Muhammad Novandra Arissaputra
-KELAS : Sistem Informasi A 2022
+NIM : 2209116040<br>
+NAMA : Awang Muhammad Novandra Arissaputra<br>
+KELAS : Sistem Informasi A 2022<br>
 
-Alamat Website : https://novan.janjianaja.net/
+Alamat Website : https://novan.janjianaja.net/<br>
 
-Role : Super Admin
-username : awangarissaputra@gmail.com
-password : awd
+Role : Super Admin<br>
+username : awangarissaputra@gmail.com<br>
+password : awd<br>
 
-Role : Admin
-username : admin@gmail.com
-password : admin
+Role : Admin<br>
+username : admin@gmail.com<br>
+password : admin<br>
 
-Role : User
-username : bayu@gmail.com
-password : 123
+Role : User<br>
+username : bayu@gmail.com<br>
+password : 123<br>
